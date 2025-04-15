@@ -1,0 +1,16 @@
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\bin\Debug\net8.0-windows\_Calculadora.exe
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\bin\Debug\net8.0-windows\_Calculadora.deps.json
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\bin\Debug\net8.0-windows\_Calculadora.runtimeconfig.json
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\bin\Debug\net8.0-windows\_Calculadora.dll
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\bin\Debug\net8.0-windows\_Calculadora.pdb
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\obj\Debug\net8.0-windows\_Calculadora.Form1.resources
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\obj\Debug\net8.0-windows\_Calculadora.csproj.GenerateResource.cache
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\obj\Debug\net8.0-windows\_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\obj\Debug\net8.0-windows\_Calculadora.AssemblyInfoInputs.cache
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\obj\Debug\net8.0-windows\_Calculadora.AssemblyInfo.cs
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\obj\Debug\net8.0-windows\_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\obj\Debug\net8.0-windows\_Calculadora.dll
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\obj\Debug\net8.0-windows\refint\_Calculadora.dll
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\obj\Debug\net8.0-windows\_Calculadora.pdb
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\obj\Debug\net8.0-windows\_Calculadora.genruntimeconfig.cache
+C:\Users\Goncalo\source\repos\_Calculadora\_Calculadora\obj\Debug\net8.0-windows\ref\_Calculadora.dll
